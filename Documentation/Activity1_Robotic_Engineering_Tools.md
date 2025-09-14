@@ -108,7 +108,7 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 - Verify that the 2 pictures appear below. Update your name below.
 - `Sync` your changes to your github project as explained in previous section. 
 
-**Activity Director:** Laia Carlon i Soliguer
+**Activity Director:** Laia Carlon Soliguer
 
 | ![](./Images/code.png) | ![](./Images/pick_LaiaCarlon.png) |
 |:----------------------------:|:--------------------------------------:|
