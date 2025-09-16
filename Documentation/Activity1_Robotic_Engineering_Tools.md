@@ -1,4 +1,4 @@
-# Robotic Engineering tools 1
+# Robotic Engineering tools
 
 We will use the following tools for this course:
 - [Visual Studio Code](https://code.visualstudio.com/) (VSCode) as the code editor
